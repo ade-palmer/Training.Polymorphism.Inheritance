@@ -1,1 +1,1 @@
-# Training.Polymorphism.Inheritance
+# Training - Polymorphism (Inheritance)
